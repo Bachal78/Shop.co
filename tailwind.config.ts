@@ -8,12 +8,6 @@ export default {
   ],
   theme: {
     extend: {
-      screens:{
-        "display":"480px"
-      },
-      backgroundImage:{
-        'hero-pattern': "url('src/app/assets/main.jpg')"
-      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
